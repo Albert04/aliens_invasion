@@ -1,4 +1,5 @@
-Aliens Invasion Game
+Aliens Invasion Game.
+
 Welcome to Aliens Invasion, a thrilling space shooter game developed in Python 3.11 using the Pygame library. In this game, players control a spaceship and must defend the planet from waves of alien invaders.
 
 Table of Contents
