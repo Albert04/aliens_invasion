@@ -55,10 +55,14 @@ Press the spacebar to shoot bullets at the alien ships.
 Avoid getting hit by alien ships or their projectiles.
 Clear all the aliens on the screen to advance to the next level.
 Collect power-ups to boost your abilities and survive longer.
+
 Screenshots
+![Aliens_Invasion_startscreen](https://github.com/user-attachments/assets/b10d93cd-09b2-4fed-8c2b-f818cb638d64)
 
 
-Add screenshots to the screenshots directory in your repository to visually showcase your game.
+![aliens_gameplay](https://github.com/user-attachments/assets/fbfdb7d0-45b2-40bc-98b3-deb175a11954)
+
+
 
 Technologies Used
 Python 3.11: The core programming language used for game logic.
